@@ -4,33 +4,33 @@ body {
 
 #banner {
     background-image: url(pattern.jpeg);
-    font-family: helvetica;
-    font-size: 100px;
+    font-family: helvetiva;
     font-weight: bold;
+    font-size: 100px;
     text-align: center;
     color: khaki;
 }
 
 #brushes{
     background-color: mediumspringgreen;
-    font-family: Helvetica;
-    font-size: 32px;
+    font-family: helvetiva;
     font-weight: bold;
+    font-size: 32px;
     color: white;
 }
 
 #frames{
     background-color: lightcoral;
-    font-family: Helvetica;
-    font-size: 32px;
+    font-family: helvetiva;
     font-weight: bold;
+    font-size: 32px;
     color: white;
 }
 
 #paint{
     background-color: skyblue;
-    font-family: Helvetica;
-    font-size: 32px;
+    font-family: helvetiva;
     font-weight: bold;
+    font-size: 32px;
     color: white;
 }
